@@ -32,6 +32,8 @@ i'm a 21 year old student of **Information and Digital Content Management at [Ca
 <code><img height="30" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/1b70e9ef7d2502e4a14754d227374c6016792e3800cd08c8dade3a1a257b78c0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f332f33332f4669676d612d6c6f676f2e737667"></code>
 <code><img height="30" src="https://freepnglogo.com/images/all_img/1691829400logo-canva-png.png"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/e259410cda97667ad6de9b8afe81836f058e8dd6b2b4a698d2b244dd73c76795/68747470733a2f2f64697374726561752e636f6d2f6769746875622e737667"></code>
 
 ## my gits
