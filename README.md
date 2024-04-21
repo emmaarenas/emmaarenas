@@ -1,4 +1,4 @@
-<h1>hey!, i am <a href="https://github.com/emmaarenas">Emma</a> <img height="30px" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif"></h1>
+<h1>hey!, i am <a href="https://github.com/emmaarenas">Emma</a> <img height="30" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif"></h1>
 </h1>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/emmaarenas/)](https://github.com/emmaaarenas/) 
