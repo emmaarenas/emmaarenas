@@ -35,6 +35,3 @@ i'm a 21 year old student of **Information and Digital Content Management at [Ca
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/e259410cda97667ad6de9b8afe81836f058e8dd6b2b4a698d2b244dd73c76795/68747470733a2f2f64697374726561752e636f6d2f6769746875622e737667"></code>
-
-## my gists
-⭐ [R kernel installation on jupyter notebooks](https://gist.github.com/emmaarenas/0c4d700ee583dce7bfd1b02d59fdaf84)
