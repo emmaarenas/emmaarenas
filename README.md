@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmaarenasvillaverde@gmail.com)](mailto:emmaarenasvillaverde@gmail.com)
 
 ### Who am i?
-I'm a 21 year old student of **Information and Digital Content Management at [Carlos III University of Madrid](<https://www.uc3m.es/home>)**,  passionate about new technologies and ambitious to learn 😊 
+I'm a 22 year old student of **Information and Digital Content Management at [Carlos III University of Madrid](<https://www.uc3m.es/home>)**,  passionate about new technologies and ambitious to learn 😊 
 
 ## Facts about me...
 - 🎯 I'm learning:
@@ -16,7 +16,6 @@ I'm a 21 year old student of **Information and Digital Content Management at [Ca
   - Statistics
   - Programming
   - Machine Learning  
-- **Fun-fact**: I love frogs 🐸
 
 ### <img src="https://media.tenor.com/jQNca-eFbb0AAAAi/peach-goma-pc-headset.gif" width="30"> Tools and tech i use
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp"></code>
