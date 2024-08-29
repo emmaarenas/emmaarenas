@@ -5,19 +5,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emma-arenas/)](https://www.linkedin.com/in/emma-arenas)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmaarenasvillaverde@gmail.com)](mailto:emmaarenasvillaverde@gmail.com)
 
-### Who am i?
-I'm a 22 year old student of **Information and Digital Content Management at [Carlos III University of Madrid](<https://www.uc3m.es/home>)**,  passionate about new technologies and ambitious to learn 😊 
+### Who am I?
+I'm a 22 year recent graduate in **Information and Digital Content Management** Degree at **[Carlos III University of Madrid](<https://www.uc3m.es/home>)**, currently pursuing a Master’s Degree in **Data Science, Big Data, and Business Analytics** at **[Complutense University of Madrid](<https://www.ucm.es/english>)**. I am passionate about new technologies and always ambitious to learn 😊 
 
 ## Facts about me...
 - 🎯 I'm learning:
   - Data Science
   - Data Analysis
   - Data Visualization
+  - Big Data
+  - Business Analytics
   - Statistics
   - Programming
   - Machine Learning  
 
-### <img src="https://media.tenor.com/jQNca-eFbb0AAAAi/peach-goma-pc-headset.gif" width="30"> Tools and tech i use
+### <img src="https://media.tenor.com/jQNca-eFbb0AAAAi/peach-goma-pc-headset.gif" width="30"> Tools and tech I use
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/ea108c38dac63a32f2a6743353e58dafa034039b62af4eda8d0142041394c1ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672f35313270782d48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67"></code>
