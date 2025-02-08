@@ -32,3 +32,4 @@ I'm a 22 year recent graduate in **Information and Digital Content Management** 
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"></code>
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png"></code>
 <code><img height="30" src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp"></code>
