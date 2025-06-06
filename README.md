@@ -33,7 +33,7 @@ I'm a 22 year recent graduate in **Information and Digital Content Management** 
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"></code>
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png"></code>
 <code><img height="30" src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp">
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/2097px-Microsoft_Office_Access_%282019-present%29.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></code>
