@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmaarenasvillaverde@gmail.com)](mailto:emmaarenasvillaverde@gmail.com)
 
 ### Who am I?
-I'm a 22 year recent graduate in **Information and Digital Content Management** Degree at **[Carlos III University of Madrid](<https://www.uc3m.es/home>)**, currently pursuing a Master’s Degree in **Data Science, Big Data, and Business Analytics** at **[Complutense University of Madrid](<https://www.ucm.es/english>)**. I am passionate about new technologies and always ambitious to learn 😊 
+I'm a 23 year graduate in **Information and Digital Content Management** Degree at **[Carlos III University of Madrid](<https://www.uc3m.es/home>)**, currently pursuing a Master’s Degree in **Data Science, Big Data, and Business Analytics** at **[Complutense University of Madrid](<https://www.ucm.es/english>)**. I am passionate about new technologies and always ambitious to learn 😊 
 
 ## Facts about me...
 - 🎯 I'm learning:
