@@ -15,10 +15,11 @@ I'm a 23 year graduate in **Information and Digital Content Management** Degree 
   - Data Visualization
   - Data Mining
   - Text Mining
-  - Business Analytics
-  - Statistics
+  - Artificial Intelligence
   - Machine Learning
   - Deep Learning
+  - Business Analytics
+  - Statistics
 
 ### <img src="https://media.tenor.com/jQNca-eFbb0AAAAi/peach-goma-pc-headset.gif" width="30"> Tools and tech I use
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp"></code>
@@ -27,14 +28,16 @@ I'm a 23 year graduate in **Information and Digital Content Management** Degree 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"></code>
-<code><img height="30" src="https://static-00.iconduck.com/assets.00/rstudio-icon-2048x2048-nt33yx0r.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1200px-RStudio_logo_flat.svg.png"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"></code>
-<code><img height="30" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
 <code><img height="30" src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/2097px-Microsoft_Office_Access_%282019-present%29.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png"></code>
+<code><img height="30" src="https://files.svgcdn.io/logos/streamlit.png"></code>
+<code><img height="30" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png"></code>
 </code>
