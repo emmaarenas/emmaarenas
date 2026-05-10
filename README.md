@@ -1,43 +1,87 @@
 <h1>Hey!, I am <a href="https://github.com/emmaarenas">Emma</a> <img height="30" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif"></h1>
 </h1>
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/emmaarenas/)](https://github.com/emmaaarenas/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emma-arenas/)](https://www.linkedin.com/in/emma-arenas)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmaarenasvillaverde@gmail.com)](mailto:emmaarenasvillaverde@gmail.com)
+### AI & Digital Transformation Project Management | Data Science Background | Bridging Business and Technology
 
-### Who am I?
-I'm a 23 year graduate in **Information and Digital Content Management** Degree at **[Carlos III University of Madrid](<https://www.uc3m.es/home>)**, currently pursuing a Master’s Degree in **Data Science, Big Data, and Business Analytics** at **[Complutense University of Madrid](<https://www.ucm.es/english>)**. I am passionate about new technologies and always ambitious to learn 😊 
+I’m a technology-oriented professional with a hybrid background in **Data Science, Artificial Intelligence, Digital Transformation, and Project Management**.
 
-## Facts about me...
-- 🎯 I'm learning:
-  - Data Science
-  - Data Analysis
-  - Data Visualization
-  - Data Mining
-  - Text Mining
-  - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
-  - Business Analytics
-  - Statistics
+Currently working at **ACCIONA**, where I help identify business needs and design technological solutions focused on:
 
-### <img src="https://media.tenor.com/jQNca-eFbb0AAAAi/peach-goma-pc-headset.gif" width="30"> Tools and tech I use
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png"></code>
-<code><img height="30" src="https://store-images.s-microsoft.com/image/apps.3065.691feadc-e3fa-4b75-8036-7b61d3fa43d7.e0142845-e0c5-4ca3-9761-cac9a75c1be8.d18499e4-2c79-4783-b89f-4e199b20168b.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1200px-RStudio_logo_flat.svg.png"></code>
-<code><img height="30" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"></code>
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
-<code><img height="30" src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/2097px-Microsoft_Office_Access_%282019-present%29.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png"></code>
-<code><img height="30" src="https://files.svgcdn.io/logos/streamlit.png"></code>
-<code><img height="30" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png"></code>
-</code>
+* Artificial Intelligence
+* Process Automation
+* Intelligent Document Management
+* Data Governance
+* Enterprise Knowledge Access
+* Digital Transformation
+
+---
+
+## About me
+
+🎓 **Bachelor’s Degree in Information and Digital Content Management**
+Carlos III University of Madrid
+
+🎓 **Master’s Degree in Data Science, Big Data & Business Analytics**
+Complutense University of Madrid
+
+---
+
+## Core skills
+
+### Business & management
+
+* Project Management
+* Agile & Scrum
+* Digital Transformation
+* Stakeholder Management
+* Business Analysis
+* Product Thinking
+* Process Optimization
+* Technical Communication
+
+### AI & Data
+
+* Artificial Intelligence
+* Machine Learning Fundamentals
+* Data Analysis
+* Data Visualization
+* NLP & Text Mining
+* Business Analytics
+* Data Governance
+
+## Tech & tools
+
+<p align="left">
+  <img height="35" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png" />
+  <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
+  <img height="35" src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494" />
+  <img height="35" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" />
+  <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" />
+  <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" />
+  <img height="35" src="https://files.svgcdn.io/logos/streamlit.png" />
+  <img height="35" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" />
+  <img height="35" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
+  <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+I’m continuously improving my knowledge in:
+
+* AI applied to business
+* Product Management
+* Enterprise Automation
+* Generative AI
+* Agile leadership
+* Digital strategy
+* Technical communication
+
+---
+
+## 🤝 Let’s Connect
+
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square\&logo=github)](https://github.com/emmaarenas/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/emma-arenas)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:emmaarenasvillaverde@gmail.com)
